@@ -1,0 +1,56 @@
+
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #622773;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to bottom,#200726, #350C40,#4A1259,#622773);
+    background-attachment:fixed
+
+}
+form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    flex-direction: column;
+    margin-bottom: 30px;
+    box-sizing: border-box;
+    color: white;
+}
+
+
+#labelnome{
+    margin-left: 30px;
+}
+#labelemail{
+    margin-left: 30px;
+}
+#submit{
+    margin-left: 62px;
+}
+#submit:hover{
+    transition: 0.5s;
+    color: skyblue;
+    background-color: purple;
+}
+.inputaria{
+    outline: unset;
+    padding: 15px;
+    width: 200px;
+    border: 1px solid purple;
+    border-radius:20px;
+}
+
+
+img{
+    width: 30px;
+   
+}

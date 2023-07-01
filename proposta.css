@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(to bottom,#200726, #350C40,#4A1259,#622773);
+    background-attachment:fixed;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 150px;
+    color: white;
+}
+
+img{
+    width: 200px;
+}
+#seta{
+    width: 50px;
+ display: flex;
+ margin-right: 1400px;
+margin-top: 0px;
+ }  
